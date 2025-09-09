@@ -1,0 +1,35 @@
+# =========================
+# macOS System Files
+# =========================
+.DS_Store
+
+# =========================
+# Python Cache & Bytecode
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Virtual Environments
+# =========================
+.venv/
+venv/
+ENV/
+
+# =========================
+# IDE / Editor Configurations
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Jupyter Notebook Checkpoints
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Logs & Temporary Files
+# =========================
+*.log
+*.swp
