@@ -11,7 +11,6 @@ class Solution:
 
             if rev > int_max // 10 or (rev == int_max // 10 and digit > 7):
                 return 0
-            
             if rev < int_min // 10 or (rev == int_min // 10 and digit < 8):
                 return 0
 
