@@ -13,7 +13,8 @@ It's designed for anyone looking to improve their **Python + DSA** skills throug
 ---
 
 ## 📬 Contact  
+
 Feel free to connect or suggest improvements!
 
 - 👨‍💻 Kartikey Gupta  
-- 📧 kartikey.2004@icloud.com
+- 📧 <kartikey.2004@icloud.com>
