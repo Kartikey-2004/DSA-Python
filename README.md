@@ -15,9 +15,9 @@ I solve problems on different coding platforms and save the solutions here in on
 
 ```text
 DSA-Python/
-├── Leetcode/        # LeetCode problem solutions
-├── GFG/             # GeeksforGeeks problem solutions
-├── Random_Ques/     # Extra practice problems and basic algorithms
+├── Leetcode/
+├── GFG/
+├── Random_Ques/
 ├── README.md
 ├── LICENSE
 └── pyproject.toml
