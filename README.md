@@ -1,20 +1,33 @@
-# 📘 DSA-Python-Journey
+# DSA Python
 
-A clean and structured collection of Data Structures and Algorithms problems solved in **Python**, with a primary focus on LeetCode. 🚀  
-Built for consistent practice, interview preparation, and mastering problem-solving patterns.
+This repository contains my solutions to Data Structures and Algorithms problems in Python.
 
----
+I solve problems on different coding platforms and save the solutions here in one place for revision, practice, and interview preparation.
 
-## 🎯 Purpose
+## Purpose
 
-This repository serves as my personal learning log and coding interview prep tool.  
-It's designed for anyone looking to improve their **Python + DSA** skills through hands-on problem solving. 💡💻
+- Track my DSA learning journey.
+- Keep solved problems organized by platform and topic.
+- Revise common patterns, algorithms, and problem-solving approaches.
+- Build consistency in Python-based coding practice.
 
----
+## Repository Structure
 
-## 📬 Contact  
+```text
+DSA-Python/
+├── Leetcode/        # LeetCode problem solutions
+├── GFG/             # GeeksforGeeks problem solutions
+├── Random_Ques/     # Extra practice problems and basic algorithms
+├── README.md
+├── LICENSE
+└── pyproject.toml
+```
 
-Feel free to connect or suggest improvements!
+## About
 
-- 👨‍💻 Kartikey Gupta  
-- 📧 <kartikey.2004@icloud.com>
+This is a personal DSA practice repository maintained by Kartikey Gupta.
+
+## Contact
+
+- Name: Kartikey Gupta
+- Email: <kartikey.2004@icloud.com>
