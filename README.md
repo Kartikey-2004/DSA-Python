@@ -16,7 +16,6 @@ I solve problems on different coding platforms and save the solutions here in on
 ```text
 DSA-Python/
 ├── Leetcode/
-├── GFG/
 ├── Random_Ques/
 ├── README.md
 ├── LICENSE
