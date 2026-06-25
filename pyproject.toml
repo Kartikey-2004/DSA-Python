@@ -3,5 +3,5 @@ name = "dsa-python"
 version = "0.1.0"
 description = "In this Repo you get Leetcode problem solution and few other random question solution"
 readme = "README.md"
-requires-python = ">=3.14"
+requires-python = ">=3.00"
 dependencies = []
